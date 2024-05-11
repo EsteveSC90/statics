@@ -1,0 +1,1 @@
+Utilizaremos primero wget para bajar las webs estáticas (no habrà nada dinámico) del servidor que necesitemos bajar la web o webs que cuelguen de ese servidor y después con los scripts de python con beautifulsoup quitaremos ejencutandolo solo una vez todas las partes de administración por ejemplo que ya no se necesite entre otras.
