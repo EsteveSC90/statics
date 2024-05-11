@@ -1,0 +1,14 @@
+
+contador = 0
+termina = 10
+
+my_array =ps://crossroads2017.ifisc.uib-csic.es/
+
+
+while [ $termina -ge $contador ]
+
+do
+	wget --cipher 'DEFAULT:!DH'  --mirror --convert-links --adjust-extension --page-requisites --no-parent https://crossroads2017.ifisc.uib-csic.es/
+	let contador = $contador+1
+done
+ 
