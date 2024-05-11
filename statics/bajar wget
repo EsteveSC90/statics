@@ -1,0 +1,2 @@
+wget --user-agent="Mozilla/5.0 (X11; Linux amd64; rv:32.0b4) Gecko/20140804164216 ArchLinux KDE Firefox/32.0b4" -r http://gefenol.es -k -e robots=off
+
